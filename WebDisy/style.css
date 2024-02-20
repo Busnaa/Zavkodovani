@@ -77,10 +77,10 @@ color: #fff;
   .footer {
     position: absolute;
     background-color: #3E3E3E;
-    padding: 20px 0; 
-    bottom: 0; /* Position at the bottom of the viewport */
+    padding: 50px 0; 
+    bottom: 0; 
   width: 100%;
-  }
+  }//Brunova prace 20.2.
   
   .containerr {
             
