@@ -51,19 +51,22 @@ color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 30px;
     margin-left: 10%;
     margin-right: 10%;
+    margin-top: 40px;
+  
   }
 
   
   .text-box {
     flex: 1;
+    
   }
   
   .image-box {
     flex: 1;
     margin-left: 30px;
+    text-align: center;
   }
   
   .image-box img {
@@ -124,5 +127,3 @@ color: #fff;
   .custom-button:hover {
     background-color: #e4715d; /* změní barvu pozadí při najetí myši (hover) */
   }
-
-  
